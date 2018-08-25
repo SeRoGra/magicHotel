@@ -1,0 +1,2 @@
+# magicHotel
+Proyecto reserva hoteles
